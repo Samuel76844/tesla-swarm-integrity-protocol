@@ -32,6 +32,9 @@ To minimize bandwidth, agents do not stream raw video. They exchange **Intent Ve
 2.  **Confidence ($C$):** The neural network's self-assessed certainty.
 3.  **Resonance Index ($Rs$):** The mathematical "weight" of the agent's claim to the path.
 
+![unnamed](https://github.com/user-attachments/assets/e9140950-4a23-473f-a02d-3061d93dfea8)
+
+
 ---
 
 ## 3. Mathematical Foundation: Resonance Stability Index ($Rs$)
